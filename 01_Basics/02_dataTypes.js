@@ -29,3 +29,4 @@ console.log(3
 
  console.log(typeof undefined )// output = undefined
  console.log(typeof null ) // output = object
+ console.log(typeof age ) // output = nubmer

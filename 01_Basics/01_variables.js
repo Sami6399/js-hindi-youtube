@@ -6,7 +6,7 @@ let stateAction;
 
 
 
-// areaWise = "12231"  // not allowed
+// areaWise = "12231"  // not allowed as this is constant
 //  console.log(areaWise); 
 
 stateWise = "jammu"
